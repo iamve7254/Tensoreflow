@@ -41,7 +41,7 @@ more-itertools==7.0.0
 multipledispatch==0.6.0
 mysqlclient==1.4.2.post1
 networkx==2.3
-nltk==3.4.1
+nltk==3.4.5
 numpy==1.16.2
 olefile==0.44
 opencv-python==4.1.0.25
